@@ -5,4 +5,4 @@ birth_year = gets.to_i
  
 users_age = current_age_for_birth_year(birth_year)
  
-puts "You are: #{require_relative(1989)} years old."
+puts "You are: #{require_relative(user_age)} years old."
